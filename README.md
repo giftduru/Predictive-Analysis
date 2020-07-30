@@ -20,6 +20,6 @@ This is aimed at understanding the dataset. By visualizing the features we can m
 - Neighbourhood
 - Overall quality/condition of house
 - Year built
-- Sale type
+- Sale type<br />
 
 ![](image/correlation.png)
