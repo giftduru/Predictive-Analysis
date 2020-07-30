@@ -11,6 +11,7 @@ Data Source: Kaggle <br />
 - Data Cleaning
 - Feature Engineering
 - Model Building
-- Prediction / Accuracy
-
+- Prediction / Accuracy<br />
+<br />
+<br />
 **EXPLORATORY DATA ANALYSIS**
