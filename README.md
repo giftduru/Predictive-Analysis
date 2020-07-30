@@ -13,4 +13,5 @@ Data Source: Kaggle <br />
 - Model Building
 - Prediction / Accuracy<br />
 
-**EXPLORATORY DATA ANALYSIS**
+**EXPLORATORY DATA ANALYSIS**<br />
+This is aimed at understanding out dataset
