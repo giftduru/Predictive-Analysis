@@ -14,5 +14,4 @@ Data Source: Kaggle <br />
 - Prediction / Accuracy<br />
 <br />
 <br />
-<br />
-**EXPLORATORY DATA ANALYSIS
+**EXPLORATORY DATA ANALYSIS**
