@@ -3,7 +3,7 @@ Machine Learning: Predicting housing prices using advanced regression technique 
 
 Tools: Phython (Numpy, Pandas, Seaborn, Matplotlib, Scikit -learn)
 
-Data Source: Kaggle <br />
+Data Source: Kaggle (training/test data) <br />
 <br />
 <br />
 **CONTENT**
