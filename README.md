@@ -21,3 +21,5 @@ This is aimed at understanding the dataset. By visualizing the features we can m
 - Overall quality/condition of house
 - Year built
 - Sale type
+
+![](images/Figure%2020-07-30%173312.png)
