@@ -14,4 +14,5 @@ Data Source: Kaggle <br />
 - Prediction / Accuracy<br /><br />
 
 **EXPLORATORY DATA ANALYSIS**<br />
-This is aimed at understanding out dataset
+This is aimed at understanding the dataset. By visualizing the features we can make assumptions on features that could likely<br />
+influence housing prices.
