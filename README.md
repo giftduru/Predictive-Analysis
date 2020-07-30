@@ -22,4 +22,4 @@ This is aimed at understanding the dataset. By visualizing the features we can m
 - Year built
 - Sale type<br />
 
-![](image/Correlation.png)
+![](Image/Correlation.png)
