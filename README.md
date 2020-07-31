@@ -37,4 +37,4 @@ Visualizing the correlation between the numerical features and sales price using
 |FullBath |  0.560664 |
 |TotRmsAbvGrd | 0.533723 |
 |YearBuilt | 0.522897 |
-|YearRemodAdd |  0.507101 |
+|YearRemodAdd |0.507101|
