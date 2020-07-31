@@ -24,12 +24,17 @@ This is aimed at understanding the dataset. By visualizing the features we can m
 
 ![](Image/Correlation.png)
 
-Visualizing the correlation between the numerical features and sales price using a correlation plot, I observed 10 numerical variables with a correlation of at least 0.5 with saleprice.
+Visualizing the correlation between the numerical features and sales price using a correlation plot, I observed 10 numerical variables with a correlation of at least 0.5 with housing sale price.
 
 |Features | Correlation |
 | ------- | ----------- |
 |OverallQual | 0.790982 |
 |GrLivArea | 0.708624 |
-|
-|
-|
+|GarageCars | 0.640409 |
+|GarageArea | 0.623431 |
+|TotalBsmtSF | 0.613581 |
+|1stFlrSF | 0.605852 |
+|FullBath |  0.560664 |
+|TotRmsAbvGrd | 0.533723 |
+|YearBuilt | 0.522897 |
+|YearRemodAdd |  0.507101 |
