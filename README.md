@@ -39,4 +39,4 @@ Visualizing the correlation between the numerical features and sales price using
 |YearBuilt | 0.522897 |
 |YearRemodAdd |0.507101|
 
-Overall material and finish of the house has the highest correlation. This makes alot of sense because houses with higher quality finshes will cost more. The nest feature with high correlation is the above ground living area. This features relates to the size of the house with will difinitely influence sales price.
+Overall material and finish of the house has the highest correlation. This makes alot of sense because houses with higher quality finishes will cost more. The next feature with high correlation is the above ground living area. This features relates the size of the house which will difinitely influence sales price.
