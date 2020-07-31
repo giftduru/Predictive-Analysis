@@ -25,3 +25,6 @@ This is aimed at understanding the dataset. By visualizing the features we can m
 ![](Image/Correlation.png)
 
 Visualizing the correlation between the numerical features and sales price using a correlation plot, I observed 10 numerical variables with a correlation of at least 0.5 with saleprice.
+
+|Features | Correlation |
+| ------- | ----------- |
