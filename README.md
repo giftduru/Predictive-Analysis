@@ -28,3 +28,8 @@ Visualizing the correlation between the numerical features and sales price using
 
 |Features | Correlation |
 | ------- | ----------- |
+|OverallQual | 0.790982 |
+|GrLivArea | 0.708624 |
+|
+|
+|
