@@ -17,7 +17,7 @@ Before training and testing a machine learning model, it is important to underst
 
 I seperated the variables into categorical variable and numerical variables for accurate statistical analysis. A total of 34 numerical and 43 categorical features where classified.<br />
 
-**MISSING VALUES**
+**MISSING VALUES**<br />
 Missing values where identified in the dataset. For the categorical features, missing values where addressed by assigning 0 to Null values. 
 
 ![](Image/Correlation.png)
