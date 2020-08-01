@@ -66,3 +66,19 @@ I removed outliers that fall outside 3 standard deviations of the feature variab
 |YearBuilt | 6 | 1454|
 |YearRemodAdd |6 | 1460|
 
+<br />
+**MODEL TRAINING AND PREDICTION**
+After cleaning the dataset and selecting relevant features, its time to train the model using sk-learn (Random Forest)
+The table below shows predicted sales price for the first 6 rows using the test data.<br />
+<br />
+|ID | SalePrice | 
+| ------- | ----------- |
+|1461 |122770|
+|1462 |145219|
+|1463 |169063|
+|1464 |182893|
+|1465 |219604|
+|1466 |179108|
+.
+.
+Accurary: 0.15982
