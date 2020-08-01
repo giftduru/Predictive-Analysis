@@ -20,7 +20,7 @@ I seperated the variables into categorical variable and numerical variables for 
 **MISSING VALUES**<br />
 Missing values where identified in the dataset. For the categorical features, missing values where addressed by assigning 0 to Null values. However, missing values in the categorical variable where replace with the mean value.
 
-**STATISTICAL ANALYSIS AND FEATURE SELECTION**
+**STATISTICAL ANALYSIS AND FEATURE SELECTION**<br />
 In other to select the relevant features for prediction, it is important to identity features that have a strong correlation with housing sale price. For the numerical variables, this was done by using a pearson correlation heatmap.
 
 ![](Image/Correlation.png)
