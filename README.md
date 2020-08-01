@@ -1,20 +1,19 @@
 # PREDICTIVE ANALYSIS
 Machine Learning: Predicting housing prices using advanced regression technique (Random Forest)
 
-Tools: Phython (Numpy, Pandas, Seaborn, Matplotlib, Scikit -learn)
+Tools: Python (Numpy, Pandas, Seaborn, Matplotlib, Scikit -learn)
 
 Data Source: Kaggle (training/test data) <br />
 <br />
 <br />
 **CONTENT**
 - Exploratory Data Analysis
-- Data Cleaning
-- Feature Engineering
-- Model Building
+- Data Cleaning and Feature Selection
+- Machine Learning Model Building / Training
 - Prediction / Accuracy<br /><br />
 
 **EXPLORATORY DATA ANALYSIS**<br />
-This is aimed at understanding the dataset. By visualizing the features we can make assumptions on features that could likely influence housing prices. On face value I selected the following features to most likely influence housing prices
+Before training and testing a machine learning model, it is important to understand the data to be used. This is the purpose of exploratory data analysis. The dataset used consist of 79 explanatory variables describing every aspect of redsidential homes in Ames, Iowa. By careful examination and preprecessing, relevant features will be selected and used to train model to predict the final selling price of a home. 
 - Basement, lot and garage size
 - Type of utilities available
 - Neighbourhood
