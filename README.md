@@ -42,6 +42,6 @@ Visualizing the correlation between the numerical features and sales price using
 
 Overall material and finish of the house has the highest correlation. This makes alot of sense because houses with higher quality finishes will cost more. The next feature with high correlation is the above ground living area. The scattered plot over OverallQual shows a linear in increase in quality with sales price.
 
-![](Image/OverallQual.png width=48)
+![](Image/OverallQual.png)
 <br />
 For the categorical variables, the ANOVA test was carried out to study statistical significance of the variables with housing sales price.
