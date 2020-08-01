@@ -46,8 +46,8 @@ Overall material and finish of the house has the highest correlation. This makes
 <br />
 For the categorical variables, the ANOVA test was carried out to study statistical significance of the variables with housing sales price.<br />
 
-**Outliers**
-An outlier is a point in the dataset that is distant from all other observations. I used a scatter plot to visualize the outliers. Using the standard deviation method, I removed outliers that fall outside 3 standard deviations. The table below shows the number of outlier and non outlier odservations for the numerical features.<br />
+**Outliers**<br />
+An outlier is a point in the dataset that is distant from all other observations. I used a scatter plot to visualize the outliers.  From the scattered plot of GrLivArea below, we can note the outlier which represents a significant decrease in sale price with increase in GrLivArea. This appears to be an anomaly. Using the standard deviation method, I removed outliers that fall outside 3 standard deviations of the feature variable.The table below shows the number of outlier and non outlier odservations for the numerical features.<br />
 
 |Features | Outliers | Non Outliers |
 | ------- | ----------- | ----------|
@@ -61,3 +61,4 @@ An outlier is a point in the dataset that is distant from all other observations
 |TotRmsAbvGrd | 12 | 1448|
 |YearBuilt | 6 | 1454|
 |YearRemodAdd |6 | 1460|
+
