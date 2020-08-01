@@ -25,7 +25,7 @@ In other to select the relevant features for prediction, it is important to iden
 
 ![](Image/Correlation.png)
 
-Visualizing the correlation between the numerical features and sales price using a correlation plot, I observed 10 numerical variables with a correlation of at least 0.5 with housing sale price.
+Visualizing the correlation between the numerical features and sales price using a correlation heatmap above, I observed 10 numerical variables with a high correlation of at least 0.5 with housing sale price.
 
 |Features | Correlation |
 | ------- | ----------- |
