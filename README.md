@@ -18,7 +18,10 @@ Before training and testing a machine learning model, it is important to underst
 I seperated the variables into categorical variable and numerical variables for accurate statistical analysis. A total of 34 numerical and 43 categorical features where classified.<br />
 
 **MISSING VALUES**<br />
-Missing values where identified in the dataset. For the categorical features, missing values where addressed by assigning 0 to Null values. 
+Missing values where identified in the dataset. For the categorical features, missing values where addressed by assigning 0 to Null values. However, missing values in the categorical variable where replace with the mean value.
+
+**STATISTICAL ANALYSIS AND FEATURE SELECTION**
+In other to select the relevant features for prediction, it is important to identity features that have a strong correlation with housing sale price. For the numerical variables, this was done by using a pearson correlation heatmap.
 
 ![](Image/Correlation.png)
 
