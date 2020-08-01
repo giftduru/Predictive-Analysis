@@ -15,7 +15,7 @@ Data Source: Kaggle (training/test data) <br />
 **EXPLORATORY DATA ANALYSIS**<br />
 Before training and testing a machine learning model, it is important to understand the data to be used. This is the purpose of exploratory data analysis. The training dataset consist of 79 explanatory variables and 1 prediction variable (Sale Price) describing every aspect of redsidential homes in Ames, Iowa. By careful examination and preprecessing, relevant features will be selected and used to train model to predict the final selling price of a home.<br />
 
-I seperated the variables into categorical variable and numerical variables for accurate statistical analysis. A total of 34 numerical and 43 categorical features where classified.<br />
+I seperated the variables into categorical variable and numerical variables for accurate statistical analysis. A total of 34 numerical and 43 categorical features where classified. Categorical variables where converted to numerical variables using label encoding for easy processing.<br />
 
 **MISSING VALUES**<br />
 Missing values where identified in the dataset. For the categorical features, missing values where addressed by assigning 0 to Null values. However, missing values in the categorical variable where replace with the mean value.
