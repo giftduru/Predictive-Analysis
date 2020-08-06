@@ -78,6 +78,8 @@ The table below shows predicted sales price for the first 6 rows using the test 
 |1463 |169063|
 |1464 |182893|
 |1465 |219604|
-|1466 |179108|
+|1466 |179108|<br/>
+
+Root Mean Square Error: 1354.56
 
 Accurary: 0.15982
